@@ -17,13 +17,19 @@
 				"typeProperties": {
 					"dataset": {
 						"referenceName": "Parquet2",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"SistemadeArchivo": "roberto16ca",
+							"RutadeArchivo": "roberto16ejercicio"
+						}
 					},
 					"fieldList": [
 						"childItems"
 					],
 					"storeSettings": {
 						"type": "AzureBlobFSReadSettings",
+						"recursive": true,
+						"modifiedDatetimeStart": "2022-08-15T00:00:00.134Z",
 						"enablePartitionDiscovery": false
 					}
 				}
