@@ -27,7 +27,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "customer",
+						"referenceName": "Product",
 						"type": "DatasetReference"
 					}
 				]
