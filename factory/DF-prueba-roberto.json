@@ -1,0 +1,9 @@
+{
+	"name": "DF-prueba-roberto",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bd5e825f-e99e-4f08-a70f-69ad5af63cf7",
+		"tenantId": "ac349a68-ef4c-42b1-9546-31268b73193a"
+	}
+}
