@@ -10,10 +10,8 @@
 				"type": "string"
 			},
 			"Esquema": {
-				"type": "string"
-			},
-			"SalesLT": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "SalesLT"
 			}
 		},
 		"annotations": [],
