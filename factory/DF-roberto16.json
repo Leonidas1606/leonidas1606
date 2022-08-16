@@ -1,0 +1,9 @@
+{
+	"name": "DF-roberto16",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e9853a00-6282-4ed8-b527-b3be396436a9",
+		"tenantId": "ac349a68-ef4c-42b1-9546-31268b73193a"
+	}
+}
