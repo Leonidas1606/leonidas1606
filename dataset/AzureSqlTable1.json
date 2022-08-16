@@ -11,6 +11,9 @@
 			},
 			"Esquema": {
 				"type": "string"
+			},
+			"SalesLT": {
+				"type": "string"
 			}
 		},
 		"annotations": [],
